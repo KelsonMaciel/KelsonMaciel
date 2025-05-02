@@ -7,17 +7,24 @@ Atualmente, me dedico à criação de **soluções escaláveis**, **sistemas dis
 Gosto de compartilhar conhecimento, aprender constantemente e colaborar com projetos desafiadores que façam a diferença.
 
 ---
-
+### 📊 Estatísticas
 <div>
-  <a href="https://github.com/KelsonMaciel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelsonMaciel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelsonMaciel&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+  <a href="https://github.com/KelsonMaciel"/>
+    <img 
+      alt="GitHub Stats" 
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+    <img
+      alt="GitHub Stats" 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=KelsonMaciel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"
+    />
 </div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
