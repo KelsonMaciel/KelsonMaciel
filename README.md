@@ -1,16 +1,45 @@
-## Hi there 👋
+## Oi, eu sou o Kelson Maciel 👋
 
-<!--
-**KelsonMaciel/KelsonMaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um apaixonado por tecnologia com foco em **arquitetura de software**, **integrações complexas** e **desenvolvimento backend**.  
+Trabalho com **.NET**, **C#**, **Go**, **Rust**, e também tenho experiência com **JavaScript**, **TypeScript** e **React**.  
+Atualmente, me dedico à criação de **soluções escaláveis**, **sistemas distribuídos** e à aplicação de boas práticas como **DDD**, **Clean Architecture** e **DevOps com foco em Azure e AKS**.
 
-Here are some ideas to get you started:
+Gosto de compartilhar conhecimento, aprender constantemente e colaborar com projetos desafiadores que façam a diferença.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div>
+  <a href="https://github.com/KelsonMaciel">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelsonMaciel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelsonMaciel&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+  <img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+</div>
+
+---
+
+### 📫 Contato
+
+<div>
+  <a href="mailto:kelsonMaciel@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/kelson-maciel-a3683923/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
